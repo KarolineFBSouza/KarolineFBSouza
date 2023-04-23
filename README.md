@@ -8,8 +8,6 @@ Hi there! I'm Karoline Souza!✨
 
 -🌱 Tecnóloga em Agronegócio
 
--📱 Contate-me no e-mail: karolfbsouza@gmail.com
-
 -💃 Pronomes: ela/dela
 ##
 </br>
