@@ -46,5 +46,3 @@ O sucesso do seu projeto come√ßa com o seu comprometimento em escrever um bom c√
   
   ![artstation-pixel-art-study-2-igor-flores](https://user-images.githubusercontent.com/127545283/233819630-6473a78d-9f5c-4541-a194-adf6345595c3.gif)
 
-  ![Snake animation](https://github.com/KarolineFBSouza/KarolineFBSouza/blob/output/github-contribution-grid-snake.svg)
-
