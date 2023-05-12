@@ -12,7 +12,7 @@ Hi there! I'm Karoline Souza!✨
 ##
 </br>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolineFBSouza&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineFBSouza&layout=compact&theme=transparent)](https://github.com/KarolineFBSouza/github-readme-stats&layout=compact)
+ <aling itens = "center" src = ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolineFBSouza&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineFBSouza&layout=compact&theme=transparent)](https://github.com/KarolineFBSouza/github-readme-stats&layout=compact)/>
 
 
 
