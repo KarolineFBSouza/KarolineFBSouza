@@ -1,6 +1,8 @@
-## Olá pessoa! Eu sou a Karoline Souza e seja bem vindo ao meu perfil!✨
+## Olá! Eu sou a Karoline Souza e seja bem vindo(a) ao meu perfil!✨
 
 Hi there! I'm Karoline Souza!✨
+
+<br>
 
 -📖 Sou estudante do Instituto Proa e estou aprendendo programação com Java
 
@@ -8,13 +10,10 @@ Hi there! I'm Karoline Souza!✨
 
 -🌱 Tecnóloga em Agronegócio
 
--💃 Pronomes: ela/dela
 ##
-</br>
 
+## Sobre os meus projetos: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolineFBSouza&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineFBSouza&layout=compact&theme=transparent)](https://github.com/KarolineFBSouza/github-readme-stats&layout=compact)
-
-
 
 ##
 
@@ -28,8 +27,6 @@ Hi there! I'm Karoline Souza!✨
 </div>
 
 <br>
-
-
 
 ##
 
