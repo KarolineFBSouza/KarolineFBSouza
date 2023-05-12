@@ -2,7 +2,7 @@
 
 Hi there! I'm Karoline Souza!✨
 
--📖 Sou estudante do Instituto Proa e estou aprendendo programação com Java Script
+-📖 Sou estudante do Instituto Proa e estou aprendendo programação com Java
 
 -🖥️ Futuramente me tornarei uma Desenvolvedora Web-Java
 
@@ -29,7 +29,7 @@ Hi there! I'm Karoline Souza!✨
 
 <br>
 
-O sucesso do seu projeto começa com o seu comprometimento em escrever um bom código.
+
 
 ##
 
