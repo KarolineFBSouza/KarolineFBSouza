@@ -4,7 +4,7 @@ Hi there! I'm Karoline Souza!✨
 
 -📖 Sou estudante do Instituto Proa e estou aprendendo programação com Java
 
--🖥️ Futuramente me tornarei uma Desenvolvedora Web-Java
+-🖥️ Estudo Salesforce pela Multiedro
 
 -🌱 Tecnóloga em Agronegócio
 
