@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
+
 ## Olá! Eu sou a Karoline Souza e seja bem vindo(a) ao meu perfil!✨
 
 Hi there! I'm Karoline Souza!✨
@@ -42,4 +44,5 @@ Hi there! I'm Karoline Souza!✨
   ##
   
   ![artstation-pixel-art-study-2-igor-flores](https://user-images.githubusercontent.com/127545283/233819630-6473a78d-9f5c-4541-a194-adf6345595c3.gif)
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=footer"/>
 
