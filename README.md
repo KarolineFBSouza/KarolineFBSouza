@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
 
-## Olá! Eu sou a Karoline Souza e seja bem vindo(a) ao meu perfil!✨
+## Olá! Eu sou Karoline Souza e seja bem vindo(a) ao meu perfil!✨
 
 Hi there! I'm Karoline Souza!✨
 
