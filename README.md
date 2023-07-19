@@ -6,7 +6,7 @@ Hi there! I'm Karoline Souza!✨
 
 <br>
 
--📖 Sou estudante do Instituto Proa e estou aprendendo programação com Java
+-📖 Ex-estudante do Instituto Proa: focada na programação Web-Java
 
 -🖥️ Estudo Salesforce pela Multiedro
 
