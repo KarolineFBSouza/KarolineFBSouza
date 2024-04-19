@@ -8,11 +8,13 @@ Hi there! I'm Karoline Souza!✨
 
 -📖 Ex-estudante do Instituto Proa: focada na programação Web-Java
 
--👨‍💻 Programadora Front-End
+-👨‍💻 Analista de Sistemas pela Multiedro
 
--🖥️ Salesforce pela Multiedro
+-🖥️ ADM-Salesforce pela Multiedro
 
 -🌱 Tecnóloga em Agronegócio
+
+-⏳ Cursando Análise e Desenvolvimento de Sistemas pela UMC
 
 ##
 
