@@ -2,8 +2,6 @@
 
 ## Olá! Eu sou Karoline Souza e seja bem vindo(a) ao meu perfil!✨
 
-Hi there! I'm Karoline Souza!✨
-
 <br>
 
 -📖 Ex-estudante do Instituto Proa: focada na programação Web-Java
